@@ -1,1 +1,1 @@
-# python-tas-kagit-makas-oyunu
+# python-rock-paper-scissors
